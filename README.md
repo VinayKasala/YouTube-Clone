@@ -1,2 +1,2 @@
 # YouTube-Clone
-Very simple clone 
+A Simple YouTube Clone 
